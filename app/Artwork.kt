@@ -1,0 +1,1 @@
+data class Artwork(val image: Int, val title: String, val author: String)
